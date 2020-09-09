@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kakaotalk Clone
 
 HTML & CSS are so much fun!
